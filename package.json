@@ -3,10 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kishan007-code.github.io/Meroshareprnk",
+  "homepage": "https://kishan007-code.github.io/mero",
   "scripts": {
     "dev": "vite",
-    "start": "react-scripts start",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
